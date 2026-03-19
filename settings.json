@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Herobrine",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "Herobrine",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
-    "version": "",
+    "ip": "voxcel-sri.aternos.me",
+    "port": 40485,
+    "version": "1.20.4",
     "try-creative": false
   },
   "position": {
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "x0y0z0",
         "I like to play Minecraft!"
       ]
     },
